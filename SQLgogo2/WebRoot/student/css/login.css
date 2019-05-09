@@ -1,0 +1,53 @@
+.title1{
+	font-size: 25px;
+	width: 300px;
+	margin-top: 50px;
+	margin-left: 65px;
+	color: #2495ef
+}
+.title2{
+	font-size: 25px;
+	width: 430px;
+	margin-left: -25px;
+	margin-top: 10px;
+	color: #2495ef
+}
+.login_part{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: white;
+	margin-top: 40px;
+	margin-left: -30px;
+	border-radius: 6px;
+	margin-bottom: 40px;
+}
+.login_user{
+      margin-top: 25px;
+}
+.end{
+	background-color:#008def;
+	    width: 1518px;
+    height: 150px;
+    display: flex;
+
+}
+.end_msg{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-left: 200px;
+	 cursor:pointer
+}
+.end_sentence{
+	margin-top: 20px;
+	margin-left: 80px;
+}
+.end_sentence p{
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: white;
+
+}

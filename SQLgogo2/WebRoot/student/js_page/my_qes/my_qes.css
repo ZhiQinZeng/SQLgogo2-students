@@ -1,0 +1,83 @@
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #ffab16d6 !important;
+    border-color: #ffab16d6 !important;
+}
+#nav_user_photo:hover {
+	cursor:pointer;
+}
+.header{
+	display: flex;
+	flex-direction: row;
+}
+.qes{
+	display: flex;
+	flex-direction: column;
+	margin-left: 30px;
+}
+.qes_demo{
+	display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    width: 425px;
+    height: 162px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 5px #8888884d;
+    background-color: white;
+    margin-right:50px
+}
+.qes_part{
+	display:flex;
+	flex-wrap: wrap;
+	margin-top: 15px;
+}
+.user{
+	display: flex;
+	flex-direction: column;
+   margin-left: 30px;
+   margin-top: 10px;
+}
+.user_pic{
+    
+    height: 50px;
+    margin-bottom: 20px;
+    width: 64px;
+    height: 64px;
+    margin-left: 15px;
+}
+.user_name{
+	    margin-left: 30px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.user_qes{
+	    margin-left: 70px;
+    
+}
+.qes_name{
+       font-size: 25px;
+    font-weight: bold;
+}
+.qes_time{
+	margin-top: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.answer{
+	display: flex;
+	flex-direction: row;
+	
+	    margin-left: 30px;
+    margin-top: 20px;
+}
+.my_qes{
+	    display: flex;
+    align-items: center;
+    position: relative;
+        margin-left: 29px;
+            justify-content: space-between;
+    top: 10px;
+}

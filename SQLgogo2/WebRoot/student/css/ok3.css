@@ -1,0 +1,92 @@
+.contain1{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	background-color: #d8d2d2;
+	    border: 5px solid #797575;
+    margin: 10px;
+}
+.guide_name{
+       display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.guide_msg{
+	display: flex;
+	    margin-right: 10px;
+	
+}
+.guide_teacher{
+	display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.disguise{
+	
+	 width: 800px;
+}
+.class_content{
+   display: flex;
+   flex-direction: column;
+      border: 5px solid #797575;
+    width: 160px;
+    margin-left: 10px;
+    height: 450px;
+    background-color: #d8d2d2;
+}
+.class_content p{
+  margin:10px;
+  background-color:#797575;
+}
+.all{
+	display: flex;
+	flex-direction: row;
+}
+.qes{
+	display: flex;
+	flex-direction: column;
+	margin-left: 30px;
+}
+.qes_demo{
+	display: flex;
+	flex-direction: row;
+	    padding-top: 10px;
+	    border:1px solid;
+    width: 502px;
+    height: 162px;
+    margin-bottom: 15px;
+}
+.user{
+	display: flex;
+	flex-direction: column;
+   margin-left: 30px;
+   margin-top: 10px;
+}
+.user_pic{
+    border: 2px solid;
+    height: 50px;
+        margin-bottom: 20px;
+    width: 64px;
+    height: 64px;
+}
+.user_name{
+	    margin-left: 10px;
+}
+.user_qes{
+	    margin-left: 50px;
+    
+}
+.qes_name{
+       font-size: 25px;
+    font-weight: bold;
+}
+.qes_time{
+	margin-top: 5px;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.num{
+	display: flex;
+	flex-direction:row;
+}

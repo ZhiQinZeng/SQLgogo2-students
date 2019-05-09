@@ -1,0 +1,10 @@
+#main{
+	height:550px;
+	background-color: #d9d7d74f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#table{
+	width:85%;
+}
